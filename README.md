@@ -1,7 +1,7 @@
 # soodi592
 
 
-##### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&pause=1000&random=false&width=435&lines=Desktop+Developer;GUI+Developer;Bale+Bot+Developer;Telegram+Bot+Developer;Frontend+Programmer;Backend+Developer;Passionate+about+Development+%E2%99%A5%EF%B8%8F)
+##### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&pause=1000&random=false&width=435&lines=Python+Master;Desktop+Developer;GUI+Developer;Bale+Bot+Developer;Telegram+Bot+Developer;Frontend+Programmer;Backend+Developer;Passionate+about+Development+%E2%99%A5%EF%B8%8F)
 Hi all 👋!
 
 I'm **soodi592**, a passionate **bot developer** 🤖 and discord ***configer***.
