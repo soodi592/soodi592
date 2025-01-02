@@ -28,6 +28,7 @@ Currently working on WW3 Bot.
 - **📷 Photoshop**: 90%
 - **©️ C++**: "85%
 - **🦅 Java**: 75%
+- **🔰 JS**: 65%
 
 ## 🛠️ Tools & Technologies
 
