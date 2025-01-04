@@ -73,7 +73,6 @@ Tkinter is the most hated framework at all :)
 <br/>
 <div align='center'>
   <a href="https://github.com/soodi592"><img alt="soodi592's GitHub state" src="https://github-readme-activity-graph.vercel.app/graph?username=soodi592&bg_color=262312&color=4ddbff&line=04f6a5&point=ff0000&area=true&hide_border=false&radius=16)" height="300px"></a>
-</details>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kian-ahmadian/kian-ahmadian/output/github-contribution-grid-snake-dark.svg">
