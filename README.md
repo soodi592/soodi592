@@ -59,7 +59,7 @@ Currently working on WW3 Bot.
   <img src="https://github-profile-trophy.vercel.app/?username=soodi592&theme=darkhub&column=7" alt="GitHub Trophies" />
 </p>
 
-## 📫 Contact Me
+## 📫 Contact Teryak
 
 - **Discord**: <a href="https://discordapp.com/users/730819899273773106" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" /></a>
 - **Bale / Telegram**: @soodi592
